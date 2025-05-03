@@ -2,7 +2,6 @@ import Image from "next/image";
 import { GithubIcon } from "lucide-react";
 
 import bluesky_icon from "@/assets/bluesky.svg";
-import ithundxr from "@/assets/ithundxr.webp";
 
 export default function Home() {
   return (
@@ -22,7 +21,7 @@ export default function Home() {
             className={`pointer-events-none relative order-1 flex h-[224px] w-[224px] items-center justify-center rounded-full bg-element sm:order-2`}
           >
             <Image
-              src={ithundxr}
+              src="/ithundxr.webp"
               alt="Profile Picture"
               width={200}
               height={200}
