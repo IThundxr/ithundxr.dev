@@ -14,11 +14,11 @@
     --element-border-hover-color: #000000;
 
     /* Coloured Element */
-    --element-accent-color: #f33666;
-    --element-accent-border-color: #e82e5f;
+    --element-accent-color: #e94a6f;
+    --element-accent-border-color: #d44163;
     /* Coloured Element Hover */
-    --element-accent-hover-color: #ef2f60;
-    --element-accent-border-hover-color: #e12556;
+    --element-accent-hover-color: #f2577c;
+    --element-accent-border-hover-color: #c6375a;
 
     --text-primary-color: rgb(225, 225, 225);
     --text-secondary-color: rgb(175, 175, 175);
