@@ -11,7 +11,7 @@ export default function Projects() {
         "https://github.com/Creators-of-Create/Create/blob/9517566e46a22fc2833838feefd0e061c66186cb/.idea/icon.png?raw=true",
       description: "Building Tools and Aesthetic Technology",
       link: "https://modrinth.com/mod/create",
-      tags: ["170 Million Downloads", "NeoForge Mod", "Fabric Mod"],
+      tags: ["170 Million Downloads", "NeoForge Mod", "Fabric Mod", "Developer"],
     },
     {
       id: 2,
@@ -20,7 +20,7 @@ export default function Projects() {
         "https://github.com/Layers-of-Railways/Railway/blob/19cacac4ee275903d954a2af694b28d05a851cf9/.idea/icon.png?raw=true",
       description: "Adding depth to Create's rail network & steam system",
       link: "https://modrinth.com/mod/create-steam-n-rails",
-      tags: ["50 Million Downloads", "Fabric/NeoForge Mod"],
+      tags: ["50 Million Downloads", "Fabric/NeoForge Mod", "Lead Developer"],
     },
     {
       id: 3,
@@ -30,7 +30,7 @@ export default function Projects() {
       description:
         "A Quark is a very small thing. This mod is a collection of small things...",
       link: "https://modrinth.com/mod/quark",
-      tags: ["220 Million Downloads", "Forge Mod"],
+      tags: ["220 Million Downloads", "Forge Mod", "Maintainer"],
     },
   ];
 
