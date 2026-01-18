@@ -50,12 +50,12 @@ export default function Home() {
         <h2 className="mb-4 text-2xl text-[0.9em] font-normal uppercase tracking-wider text-secondary">
           Java, Rust and Typescript Developer
         </h2>
-        <Link
-          href="/projects"
-          className="perspective-1000 preserve-3d inline-block rounded-full bg-elementAccent px-8 py-3 text-lg font-medium shadow-lg transition-all duration-150 ease-out will-change-transform hover:scale-[1.02] hover:bg-elementAccentHover hover:shadow-xl active:translate-y-0.5 active:scale-95 active:bg-elementAccentHover"
-        >
-          Browse My Projects
-        </Link>
+        {/*<Link*/}
+        {/*  href="/projects"*/}
+        {/*  className="perspective-1000 preserve-3d inline-block rounded-full bg-elementAccent px-8 py-3 text-lg font-medium shadow-lg transition-all duration-150 ease-out will-change-transform hover:scale-[1.02] hover:bg-elementAccentHover hover:shadow-xl active:translate-y-0.5 active:scale-95 active:bg-elementAccentHover"*/}
+        {/*>*/}
+        {/*  Browse My Projects*/}
+        {/*</Link>*/}
       </section>
     </div>
   );
