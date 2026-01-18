@@ -2,7 +2,6 @@ import Image from "next/image";
 import { GithubIcon } from "lucide-react";
 
 import bluesky_icon from "@/assets/bluesky.svg";
-import Link from "next/link";
 
 export default function Home() {
   return (
